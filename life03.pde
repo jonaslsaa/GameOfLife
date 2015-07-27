@@ -57,4 +57,3 @@ void draw(){
 } // End Draw
 
 void mousePressed() { draw = true; } void mouseReleased() { draw = false; }
-void keyPressed() {}
